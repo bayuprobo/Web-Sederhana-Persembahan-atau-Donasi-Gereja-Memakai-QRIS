@@ -1,0 +1,167 @@
+/*
+=========================================================
+Lembaga Pelayanan Gereja Donation Portal
+File    : app.css
+Version : 1.0-dev
+Created : 18 Juli 2026
+=========================================================
+*/
+
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: #ffffff;
+
+    color: #222;
+
+    margin: 40px;
+
+}
+
+.container {
+
+    max-width: 900px;
+
+    margin: auto;
+
+}
+
+h1,
+h2,
+h3 {
+
+    color: #2f5d2f;
+
+}
+
+table {
+
+    border-collapse: collapse;
+
+    width: 100%;
+
+}
+
+th,
+td {
+
+    border: 1px solid #999;
+
+    padding: 8px;
+
+}
+
+th {
+
+    background: #4f7f32;
+
+    color: white;
+
+}
+
+.text-right {
+
+    text-align: right;
+
+}
+
+.pesan {
+
+    background: #f5f5f5;
+
+    border: 1px solid #ddd;
+
+    padding: 15px;
+
+    margin-bottom: 20px;
+
+}
+
+.tombol {
+
+    margin-top: 20px;
+
+}
+
+button {
+
+    padding: 10px 20px;
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+}
+
+/* =========================================================
+   Pesan Validasi
+========================================================= */
+
+.error {
+
+    background: #ffeaea;
+
+    border: 1px solid #d9534f;
+
+    color: #a94442;
+
+    padding: 15px;
+
+    margin-bottom: 20px;
+
+}
+
+.error ul {
+
+    margin: 10px 0 0 20px;
+
+}
+
+.error li {
+
+    margin-bottom: 5px;
+
+}
+
+/* =====================================================
+   HALAMAN PEMBAYARAN
+===================================================== */
+
+.button-group{
+
+    margin-top:40px;
+
+    text-align:center;
+
+}
+
+.button{
+
+    display:inline-block;
+
+    width:220px;
+
+    margin:10px;
+
+    padding:16px;
+
+    background:#4f7f32;
+
+    color:#ffffff;
+
+    text-decoration:none;
+
+    font-size:18px;
+
+    font-weight:bold;
+
+    border-radius:6px;
+
+}
+
+.button:hover{
+
+    background:#3f6727;
+
+}
