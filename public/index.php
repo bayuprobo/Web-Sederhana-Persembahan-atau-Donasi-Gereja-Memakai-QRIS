@@ -32,7 +32,7 @@ Created : 18 Juli 2026
 
     <p>
         Laman ini membantu Anda menyampaikan informasi
-        donasi kepada admin Para Navigator.
+        donasi kepada admin Lembaga Pelayanan-Gereja.
     </p>
 
     <p>
